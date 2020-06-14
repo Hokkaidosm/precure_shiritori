@@ -122,6 +122,7 @@
     <None Include="rubicure\spec\support\util\test_util.rb" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="result\20200614.txt" />
     <Content Include="rubicure\examples\maho_girls.gif" />
     <Content Include="rubicure\LICENSE.txt" />
   </ItemGroup>
