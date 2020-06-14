@@ -1,0 +1,3 @@
+[submodule "precure_shiritori/rubicure"]
+	path = precure_shiritori/rubicure
+	url = https://github.com/sue445/rubicure.git
