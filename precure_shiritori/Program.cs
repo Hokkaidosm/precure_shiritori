@@ -69,6 +69,12 @@ namespace precure_shiritori
                 }
             }
 
+            // キュアアースの暫定対応（rubicureに入ったら消す）
+            if (!precureList.Where(p => p.PrecureName == "キュアアース").Any())
+            {
+                precureList.Add(new Precure("キュアアース"));
+            }
+
             return precureList;
         }
     }
