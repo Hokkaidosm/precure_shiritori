@@ -81,6 +81,7 @@
     <None Include="rubicure\config\girls\017_healingood.yml" />
     <None Include="rubicure\config\girls\018_tropical_rouge.yml" />
     <None Include="rubicure\config\girls\019_delicious_party.yml" />
+    <None Include="rubicure\config\girls\020_hirogaru_sky.yml" />
     <None Include="rubicure\config\girls\movie.yml" />
     <None Include="rubicure\config\movies.yml" />
     <None Include="rubicure\config\series.yml" />
@@ -126,6 +127,7 @@
   <ItemGroup>
     <Content Include="result\20200614.txt" />
     <Content Include="result\20200622.txt" />
+    <Content Include="result\20230604.txt" />
     <Content Include="rubicure\examples\maho_girls.gif" />
     <Content Include="rubicure\LICENSE.txt" />
   </ItemGroup>
